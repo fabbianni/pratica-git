@@ -1,0 +1,5 @@
+git -v - 
+git config --
+git config --global user.email “Seu email” - 
+git init - 
+git add nome-do-arquivo - 
