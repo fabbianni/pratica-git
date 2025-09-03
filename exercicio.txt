@@ -1,0 +1,4 @@
+git -v - Retorna a versão do git (útil para ver se o computador tem git instalado)
+git config --global user.name “Seu nome” - Configura o nome de usuário que irá fazer os
+commits
+git config --g
