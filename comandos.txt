@@ -1,5 +1,8 @@
-git -v - 
-git config --
-git config --global user.email “Seu email” - 
-git init - 
-git add nome-do-arquivo - 
+git -v - Retorna a versão do git (útil para ver se o computador tem git instalado)
+git config --global user.name “Seu nome” - Configura o nome de usuário que irá fazer os
+commits
+git config --global user.email “Seu email” - Configura o endereço de email que irá fazer
+os commits
+git init - Inicia o git dentro do repositório adicionando a pasta oculta “.git”
+git add nome-do-arquivo - Adiciona o arquivo para “staging area”, local onde os arquivos
+ficam para serem versionados (commits)
